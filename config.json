@@ -1,0 +1,1 @@
+{\n  \"depth_tolerance\": 0.2,\n  \"overlap_threshold\": 0.5,\n  \"output_directory\": \"validation_output\"\n}
